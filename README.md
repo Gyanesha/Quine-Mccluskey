@@ -1,2 +1,2 @@
-# Quine-Mccluskey
-Implementation of Quine Mccluskey method.
+# Quine-McCluskey
+Implementation of Quine Mccluskey method using python.
