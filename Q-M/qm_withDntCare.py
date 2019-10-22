@@ -1,4 +1,5 @@
 import math
+
 an=input("minterms=").split(" ")
 dontcare=input("don't cares=").split(" ")
 a=an
