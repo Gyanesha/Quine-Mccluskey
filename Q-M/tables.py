@@ -319,4 +319,7 @@ class QuineMcCluskey:
 qm = QuineMcCluskey()
 ones = [0,1,2,8,9,15,17,21,24,25,27,31]
 dontcares = []
+ones = [0,1,7,9,21]
+dontcares = [2,3,8,10]
+print(qm.simplify(ones, dontcares))
 print(qm.simplify(ones, dontcares))
